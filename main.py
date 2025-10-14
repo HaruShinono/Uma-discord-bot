@@ -15,11 +15,11 @@ race_locks = {}
 
 # === load token and admin password ===
 load_dotenv()
-TOKEN = os.getenv("TOKEN2")
+TOKEN = os.getenv("DISCORD_TOKEN")
 ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD")
 
 if not TOKEN:
-    raise RuntimeError("Set TOKEN2 in .env")
+    raise RuntimeError("Set DISCORD_TOKEN in .env")
 if not ADMIN_PASSWORD:
     raise RuntimeError("Set ADMIN_PASSWORD in .env")
 
@@ -357,3 +357,4 @@ async def give_cmd(interaction: discord.Interaction, user: discord.User, amount:
 
 # === run bot ===
 bot.run(TOKEN)
+
