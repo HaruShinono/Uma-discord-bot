@@ -37,8 +37,8 @@ Follow these steps to get the bot running on your server.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-github-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/HaruShinono/Uma-discord-bot.git
+cd Uma-discord-bot
 ```
 
 ### 2. Install Dependencies
