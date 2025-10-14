@@ -113,11 +113,11 @@ Once running, you can use the `/` commands in your Discord server (e.g., `/umara
 
 If you encounter any bugs, have questions, or want to suggest a new feature, please feel free to reach out.
 
--   **GitHub Issues**: For bug reports and feature requests, please [open an issue](https://github.com/your-github-username/your-repo-name/issues) on this repository.
--   **Discord**: You can contact me directly at `YourDiscordTag#0000`.
+-   **GitHub Issues**: For bug reports and feature requests, please [open an issue](https://HaruShinono/Uma-discord-bot/your-repo-name/issues) on this repository.
+-   **Discord**: You can contact me directly at `harushinono`.
 
 ---
 
 ## Credits
 - This project is heavily inspired by **Umamusume: Pretty Derby**.
-- Developed by [Your Name/GitHub Handle].
+- Developed by HaruShinono.
