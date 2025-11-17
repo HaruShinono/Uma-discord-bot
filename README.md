@@ -120,4 +120,4 @@ If you encounter any bugs, have questions, or want to suggest a new feature, ple
 
 ## Credits
 - This project is heavily inspired by **Umamusume: Pretty Derby**.
-- Developed by HaruShinono.
+- Developed by HaruShinono for **"Shinono Tactical"** Discord server
