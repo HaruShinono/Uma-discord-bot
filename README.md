@@ -6,7 +6,7 @@ A feature-rich horse racing simulation and betting bot for Discord, inspired by 
 > Please be aware that all user-facing text, including command descriptions, bot responses, and UI elements, are written entirely in **Vietnamese**. This project was originally developed for a Vietnamese-speaking community.
 
 This repository contains two versions of the bot:
-*   `umamain.py`: The full-featured version with scheduled special events, advanced admin commands, and more complex UI elements.
+*   `umacomplete.py`: The full-featured version with scheduled special events, advanced admin commands, and more complex UI elements.
 *   `umasimple.py`: A simplified, core version that is easier to run and manage, with no admin commands or scheduled tasks.
 
 ---
